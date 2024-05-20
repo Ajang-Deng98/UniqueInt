@@ -8,4 +8,3 @@ The structure of the data is arrange in the way below
 Python should be installed in your system.
 cd/UniqueInt/dsa_hw01/ The directory then run the python script UniqueInt.py
 This will exactly generate the output in sample_results.
-
