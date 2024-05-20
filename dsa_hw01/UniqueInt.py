@@ -14,8 +14,8 @@ def get_unique_sorted_integers(integers):
     return unique_integers
 
 def main():
-    file_path = r'small_sample_input_01.txt' 
-    integers = integers_from_file(file_path)
+    the_file_path = r'small_sample_input_01.txt' 
+    integers = integers_from_file(the_file_path)
     
     if integers:
         unique_sorted_integers = get_unique_sorted_integers(integers)
